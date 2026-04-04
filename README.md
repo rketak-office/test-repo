@@ -1,3 +1,3 @@
-# test-repo
+# Test Repository
 
-Test repository for GitHub MCP tools
+This was created via GitHub MCP tools.
